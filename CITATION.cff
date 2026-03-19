@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - alias: eukairos
+title: "BioClinicalModernBertChecker: A Context-Sensitive Neural Spell Checker for Clinical Text"
+version: 1.0.0
+date-released: 2026-03-19
+url: "https://github.com/eukairos/spellcheck"
+license: MIT
